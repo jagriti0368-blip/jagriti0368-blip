@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **web development**
 
+- 👨‍💻 this is my portfolio (for PC) [https://jagriti0368-blip.github.io/portfolio/](https://jagriti0368-blip.github.io/portfolio/)
+
 - 📫 How to reach me **jagriti0368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jagriti-aa1330369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagriti ." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jagriti-aa1330369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigyasa ." height="30" width="40" /></a>
 <a href="https://instagram.com/jagritiii_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagritiii_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jagritiii_0368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagritiii_0368" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@jagritpb1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@jagritpb1z" height="30" width="40" /></a>
